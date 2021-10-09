@@ -1,2 +1,2 @@
 # AzureDevOpsStuffs
-Repo for learn Azure DevOps
+Repo for learn Azure DevOps.
